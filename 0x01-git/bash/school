@@ -1,6 +1,6 @@
 #!/bin/bash
 
-<<<<<<< HEAD
+
 echo "The school is open!"
 =======
 echo "School"
@@ -8,4 +8,4 @@ echo "School"
 #!/bin/bash
 
 echo "The school is open!"
->>>>>>> e7bc64e624a53b5ad88df0696ef933a46ca0ea78
+
