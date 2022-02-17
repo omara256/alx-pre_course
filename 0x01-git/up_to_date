@@ -1,2 +1,3 @@
-git commit -m "How to be up to date in git"
+git pull https://github.com/omara256/alx-pre_course.git
+
 
